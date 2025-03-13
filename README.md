@@ -45,13 +45,6 @@ INITIAL_TOKEN_SUPPLY=         # Initial token supply
 - Real-time transaction tracking
 - MetaMask integration
 
-### Screenshots
-
-![Screenshot 1](client/images/Screenshot%202025-03-13%20173732.png)
-![Screenshot 2](client/images/Screenshot%202025-03-13%20173713.png)
-![Screenshot 3](client/images/Screenshot%202025-03-13%20173650.png)
-![Screenshot 4](client/images/Screenshot%202025-03-13%20173625.png)
-
 ## Prerequisites
 
 - Node.js (v14+ recommended)
